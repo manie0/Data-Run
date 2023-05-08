@@ -1,0 +1,5 @@
+﻿"datos = [ ]", ¿Qué estructura de datos corresponde a la anterior línea de código en Python?;vector;lista;dataframe;dist;B
+¿Cuál de los siguientes NO es un algoritmo de ordenamiento?;Burbuja;Inserción;Permutación;Selección;C
+En el arreglo [51, 21, 39, 80, 36] la primera iteración del ordenamiento por selección produce;[36, 21, 39, 80, 51];[21, 51, 39, 80, 36];[51, 21, 36, 80, 39];[39, 80, 36, 51, 21];B
+Para conocer el número de casillas en un arreglo A en Python se usa;len(A);A.length();A.len();long(A);A
+Dada una lista ordenada lista:\ni = 0\nwhile (lista[i] > nuevo and i < len(lista)):\n\t i += 1\nlista.insert(i, nuevo)\n¿Qué hizo el anterior algoritmo?;Realizó una búsqueda en la lista ordenada;Ordenó descendentemente la lista;Obtuvo el mayor elemento de la lista;Insertó en la lista ordenada un objeto en su posición correcta;D
